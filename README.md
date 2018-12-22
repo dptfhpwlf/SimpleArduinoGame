@@ -1,4 +1,4 @@
-# simpleArduinoGame
+# SimpleArduinoGame
 Simple arduino game. No scheme bundled.
 
 Just upload this code to your arduino and have fun.
