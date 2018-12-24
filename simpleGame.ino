@@ -29,7 +29,7 @@ byte lives = 3;
 //enemy
 byte enemyX = 15, enemyY = 0;
 
-//bonus live
+//bonus life
 byte lifeX = -1, lifeY = 0;
 int prob = 16;
 int timer = 0;
